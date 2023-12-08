@@ -9,7 +9,7 @@
 const int mq7Pin = 34;
 
 // Define the pin for the button
-const int buttonPin = 5; // Change to the GPIO pin you connect the button to
+const int buttonPin = 28; // Change to the GPIO pin you connect the button to
 
 // Define the state of the device
 bool deviceState = true; // true means ON, false means OFF
